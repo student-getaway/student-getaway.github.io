@@ -7,6 +7,13 @@ img{
 }
 h1{
 	text-align: center;
+	background-color:rgba(255,255,255,0.2);
+}
+h2{
+	text-align:center;
+	background-color:rgba(255,255,255,0.2);
+	font-size:100px;
+	color:white;
 }
 .jumbotron{
 	background-image:url("images/sky-beach-vacation-summer.jpeg");
