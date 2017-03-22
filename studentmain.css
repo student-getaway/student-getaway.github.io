@@ -1,7 +1,19 @@
 body{
-	background-color: lightblue;
+	background:lightgrey;
 }
 img{
-	border-color: black;
+	border: black;
 	size:10px;
 }
+h1{
+	text-align: center;
+}
+.jumbotron{
+	background-image:url("images/sky-beach-vacation-summer.jpeg");
+	background-size: cover;
+	height:1000px;
+}
+.navbar-inverse {
+    background-color: lightblue;
+    border-color:lightgrey;
+    }
