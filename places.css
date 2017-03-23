@@ -1,6 +1,7 @@
 img{
-	height:500px;
+	height: 50px;
 	width: 350px;
+	padding: 25px;
 }
 .jumbotron{
 	background-image:url("images/sea-black-and-white-water-ocean.jpg");
