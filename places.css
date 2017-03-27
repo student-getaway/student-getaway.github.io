@@ -3,7 +3,7 @@ img{
 	width: 350px;
 }
 .jumbotron{
-	background-image:url("images/sea-black-and-white-water-ocean.jpg");
+	background:#FFF;
 	position: cover;
 }
 h2{
