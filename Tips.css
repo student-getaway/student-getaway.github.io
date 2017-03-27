@@ -1,7 +1,8 @@
-div .jumbotron-sub{
+.jumbotron-special{
 	background-image:url("images/pexels-photo-297755.jpeg");
 	color:white;
 	position: cover;
+	padding:50px;
 }
 h2{
 	text-align: center;
