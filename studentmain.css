@@ -31,3 +31,13 @@ h4{
 	font-size: 20px;
 	color:lightgrey;
 }
+.btn-twitter {
+	background-color: #00acee;
+
+}
+.btn-facebook { 
+	background-color: #4868ac;
+}
+.btn-pinterest {
+	background-color: #b62f26;
+}
