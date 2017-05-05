@@ -3,11 +3,21 @@ img{
 	width: 350px;
 }
 .jumbotron{
-	background:#FFF;
+	background: rgba(244,244,244,0.6);
 	position: cover;
 }
 h2{
 	text-align: center;
 	background-color:rgba(0,0,0,0.2);
 	font-size:50px;
+}
+.myCarousel{
+  width:640px;
+  height:800px;
+}
+em{
+	font-size:20px;
+}
+body{
+	font-family:'Raleway', sans-serif;
 }
