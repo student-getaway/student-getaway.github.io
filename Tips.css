@@ -17,3 +17,10 @@ h3{
 body{
 	font-family:'Raleway', sans-serif;
 }
+.weblinks li a{
+	color:lightblue;
+	font-size:20px;
+}
+p{
+	padding: 2px;
+}
