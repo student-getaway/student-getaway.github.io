@@ -11,13 +11,18 @@ h2{
 	background-color:rgba(0,0,0,0.2);
 	font-size:50px;
 }
-.myCarousel{
-  width:640px;
-  height:800px;
-}
 em{
 	font-size:20px;
 }
 body{
 	font-family:'Raleway', sans-serif;
+}
+
+.myCarousel {
+
+}
+
+#slideshow img{
+	width:100%;
+	height:500px;
 }
